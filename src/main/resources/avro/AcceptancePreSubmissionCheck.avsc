@@ -1,0 +1,15 @@
+  {
+    "type": "record",
+    "name": "AcceptancePreSubmissionCheck",
+    "namespace": "org.example.demo.presubmissioncheck",
+    "fields": [
+      {
+        "name": "businessCaseId",
+        "type": "string"
+      },
+      {
+        "name": "sourceSystem",
+        "type": "string"
+      }
+    ]
+  }
